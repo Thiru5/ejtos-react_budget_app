@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.addButton {
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 50%;
+}
+
+.redButton {
+    border-radius: 40%;
+    color: white;
+    background-color: red;
+    border: none;
+}
